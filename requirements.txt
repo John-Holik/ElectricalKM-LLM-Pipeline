@@ -1,0 +1,19 @@
+# ElectriAI Research - Python Dependencies
+# Generated from notebook and source file analysis
+# Install with: pip install -r requirements.txt
+
+google-api-python-client
+httpx
+openai
+openpyxl
+pandas
+python-dotenv
+requests
+tiktoken
+tqdm
+youtube-transcript-api
+plotly
+ipykernel
+ipython
+nbformat>=4.2.0
+kaleido
